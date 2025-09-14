@@ -6,8 +6,8 @@ It is a multi-page, responsive, and interactive project that showcases my skills
 ---
 
 ## 🚀 Live Demo  
-👉 [View Website](https://your-username.github.io/portfolio-site/)  
-(*replace `your-username` with your GitHub username*)  
+👉 [View Website](https://github.com/Wizardtech26/portfolio-site.git/)  
+(`Wizardtech26`)  
 
 ---
 
